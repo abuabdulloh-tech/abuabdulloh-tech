@@ -1,7 +1,24 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuabdulloh-tech&show_icons=true&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="Anvar's GitHub stats" height="180" />
-  
-  <br/>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdulloh-tech&layout=compact&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&text_color=a9b1d6" alt="Top Langs" height="180" />
+# 👨‍💻 abuabdulloh-tech | Neovim Environment
+
+<img src="https://github-readme-stats.vercel.app/api?username=abuabdulloh-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdulloh-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
+
+---
+
+### 📂 Current Buffer: `about_me.lua`
+```lua
+local developer = {
+  name = "abuabdulloh-tech",
+  tools = { "Neovim", "Tmux", "Zsh" },
+  stack = { "React", "Next.js", "TailwindCSS" },
+  status = "Learning and Coding..."
+}
+
+print(developer.name .. " is ready to code!")
