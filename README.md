@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuabdulloh-tech&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="AbuAbdulloh Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuabdulloh-tech&layout=compact&theme=radical&hide_border=false" alt="AbuAbdulloh Top Langs" />
-</div>
+<p align="center">
+  <img src="https://metrics.lecoq.io/abuabdulloh-tech?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2Fpashkent" alt="Metrics" />
+</p>
+</br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuabdulloh-tech&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
