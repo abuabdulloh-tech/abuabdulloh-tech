@@ -3,7 +3,7 @@
 </p>
 </br>
 <p align="center">
-  <img src="https://metrics.lecoq.io/abuabdulloh-tech?template=classic&base=repositories&base.indepth=true&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abuabdulloh-tech&theme=2077" alt="Top Languages Card" />
 </p>
 </br>
 <p align="center">
