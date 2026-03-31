@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abuabdulloh-tech&theme=2077" alt="Top Languages Card" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuabdulloh-tech&layout=compact&theme=radical&hide_border=false&show_icons=true" alt="Top Langs" />
 </p>
 </br>
 <p align="center">
