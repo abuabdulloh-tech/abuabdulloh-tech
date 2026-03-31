@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abuabdulloh-tech&theme=react-dark" alt="Activity Graph" />
-</p>
-</br>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abuabdulloh-tech&theme=2077" alt="Top Languages Card" />
 </p>
 </br>
