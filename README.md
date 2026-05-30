@@ -8,3 +8,7 @@
 
   ![GitHub Trophy](https://github-profile-trophy-psi-sandy.vercel.app/?username=abuabdulloh-tech&theme=dracula&no-frame=true&no-bg=true)
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abuabdulloh-tech&show_icons=true&theme=tokyonight&count_private=true" alt="abuabdulloh-tech GitHub Stats" />
+</p>
