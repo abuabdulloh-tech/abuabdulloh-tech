@@ -23,9 +23,15 @@ jobs:
           
           base: header, activity, community, repositories
           base_indepth: yes
-          config_order: header, activity, community, repositories, languages
+          config_order: header, activity, community, repositories, isocalendar, followup, languages
           config_padding: 0, 0
           config_timezone: Asia/Tashkent
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_followup: yes
+          plugin_followup_sections: overview, user
 
           plugin_languages: yes
           plugin_languages_colors: github
