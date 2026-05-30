@@ -11,3 +11,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abuabdulloh-tech&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
+
+
+
+
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
